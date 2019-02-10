@@ -1,10 +1,13 @@
-step 1: Activate the Virtaul environment
+Step 1:Clone the repository:
+    git clone https://github.com/ParvezMullah/Scraping-Links-from-Medium.com-recursively.git
+
+step 2: Go to Scraping folder and  Activate the Virtaul environment
     source scrapingenv/bin/activate
 
-step 2 : Run python file and wait untill completes its execution.
+step 3 : Run python file. I will take long time  20-30 min to completes its execution.
     python scraper.py
 
-step 3 : check data.txt file.
+step 4 : check data.txt file.
 
 
 
